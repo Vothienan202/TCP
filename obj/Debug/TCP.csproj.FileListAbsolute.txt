@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\Personal PJ\LTMCB\lab3\TCP\bin\Debug\TCP.exe.config
+C:\Users\Admin\Desktop\Personal PJ\LTMCB\lab3\TCP\bin\Debug\TCP.exe
+C:\Users\Admin\Desktop\Personal PJ\LTMCB\lab3\TCP\bin\Debug\TCP.pdb
+C:\Users\Admin\Desktop\Personal PJ\LTMCB\lab3\TCP\obj\Debug\TCP.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Personal PJ\LTMCB\lab3\TCP\obj\Debug\TCP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Personal PJ\LTMCB\lab3\TCP\obj\Debug\TCP.Dashboard.resources
+C:\Users\Admin\Desktop\Personal PJ\LTMCB\lab3\TCP\obj\Debug\TCP.Properties.Resources.resources
+C:\Users\Admin\Desktop\Personal PJ\LTMCB\lab3\TCP\obj\Debug\TCP.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Personal PJ\LTMCB\lab3\TCP\obj\Debug\TCP.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Personal PJ\LTMCB\lab3\TCP\obj\Debug\TCP.exe
+C:\Users\Admin\Desktop\Personal PJ\LTMCB\lab3\TCP\obj\Debug\TCP.pdb
+C:\Users\Admin\Desktop\Personal PJ\LTMCB\lab3\TCP\obj\Debug\TCP.serverTCP.resources
+C:\Users\Admin\Desktop\Personal PJ\LTMCB\lab3\TCP\obj\Debug\TCP.clientTCP.resources
